@@ -25,7 +25,7 @@ You can try the app live [here](#).
 To run the app locally, simply clone this repository and open `index.html` in your web browser.
 
 ```
-git clone https://github.com/your-username/sudoku-app.git
+git clone https://github.com/shraddha-gawde/basic-SUD0KU.git
 cd sudoku-app
 ```
 
