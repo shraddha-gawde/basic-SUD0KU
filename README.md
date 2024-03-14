@@ -9,7 +9,7 @@ This repository contains a simple web-based Sudoku application built using HTML,
 - Responsive design for use on desktop and mobile devices.
 
 ## Demo
-You can try the app live [here](#).
+You can try the app live [here](https://shraddha-gawde.github.io/basic-SUD0KU/).
 
 
 ## Screenshots
